@@ -1,4 +1,6 @@
 Author: Rachel Benincasa
+
+
 This is the Fovus Coding Challenge. The goal of this full stack site is to allow a user to input text and upload a file, and uses a database to store these values.
 
 The specific components of this project are:
