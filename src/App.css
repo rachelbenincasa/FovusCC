@@ -1,0 +1,36 @@
+/**
+Stylesheet for app.js for the Fovuc CC
+*/
+
+.App {
+  text-align: left;
+}
+
+.appHeader {
+  background-color: #26282e;
+  min-height: 800px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  font-size: 15px;
+  color: white;
+}
+
+form {
+  margin: 0;
+  padding: 20px;
+}
+
+label span, label p {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input[type='text'], input[type='file'] {
+  margin-bottom: 20px;
+}
+
+button {
+  cursor: pointer;
+}
